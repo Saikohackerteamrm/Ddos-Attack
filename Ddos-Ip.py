@@ -23,7 +23,7 @@ os.system("figlet Team S-H-T")
 print ("\033[34mDeveloper.             : R.M Rony Ali ")
 print ("Author                 : Team S-H-T")
 print ("Tool's Status          : Ddos Attack")
-print ("Tools Type             : Paid ")
+print ("Tools Type             : Free ")
 print ("Search On Google       : saikohaclerteamrm.free.nf")
 print ("\033[1;92m           We Hack To Defend The Digital World.")
 print 
