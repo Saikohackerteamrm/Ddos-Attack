@@ -12,13 +12,13 @@ ____________________
     $ pkg install python -y
     $ git clone https://github.com/Saikohackerteamrm/Ddos-Attack
     $ cd Ddos-Attack
-    $ python Ddos-ip.py
+    $ python Ddos-Ip.py
     
      
     # Single installation command
 _______________________________________
 
-    apt update -y && apt upgrade -y && pkg install git -y && pkg install python -y  && git clone https://github.com/Saikohackerteamrm/Ddos-Attack && cd Ddos-Attack && python Ddos-ip.py
+    apt update -y && apt upgrade -y && pkg install git -y && pkg install python -y  && git clone https://github.com/Saikohackerteamrm/Ddos-Attack && cd Ddos-Attack && python Ddos-Ip.py
  ### Hi there 👋
 
 <!--
